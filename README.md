@@ -25,7 +25,7 @@ Just run the _Main.py_ file:
 
 ### Output
 
-The output will be the detailed change for each car and the updated map, like the example below (for aestetics reasons I deleted some occurrences).
+The output will be the detailed change for each car and the updated map, like the example below (for aesthetic reasons I deleted some occurrences).
 
 <!-- language: lang-none -->
 
