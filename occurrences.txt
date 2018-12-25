@@ -1,0 +1,112 @@
+Traffic jam: Car #J stuck in the position [0,12]
+Traffic jam: Car #O stuck in the position [10,6]
+Traffic jam: Car #H stuck in the position [6,12]
+Traffic jam: Car #I stuck in the position [18,6]
+Red light for car #L to turn to the l
+Traffic jam: Car #Q stuck in the position [10,6]
+Red light for car #H to turn to the r
+Traffic jam: Car #I stuck in the position [18,6]
+Traffic jam: Car #K stuck in the position [12,7]
+Traffic jam: Car #L stuck in the position [12,6]
+Red light for car #M to turn to the r
+Traffic jam: Car #I stuck in the position [18,6]
+Traffic jam: Car #K stuck in the position [12,7]
+Traffic jam: Car #O stuck in the position [12,6]
+Traffic jam: Car #Q stuck in the position [11,6]
+Red light for car #A to turn to the u
+Red light for car #O to turn to the d
+Traffic jam: Car #Q stuck in the position [11,6]
+Red light for car #A to turn to the u
+Red light for car #F to turn to the d
+Traffic jam: Car #O stuck in the position [12,6]
+Traffic jam: Car #Q stuck in the position [11,6]
+Red light for car #A to turn to the u
+Red light for car #F to turn to the d
+Red light for car #O to turn to the d
+Traffic jam: Car #Q stuck in the position [11,6]
+Traffic jam: Car #S stuck in the position [18,6]
+Red light for car #T to turn to the r
+Traffic jam: Car #C stuck in the position [18,11]
+Red light for car #D to turn to the l
+Traffic jam: Car #I stuck in the position [18,10]
+Red light for car #T to turn to the r
+Traffic jam: Car #C stuck in the position [18,11]
+Red light for car #D to turn to the l
+Traffic jam: Car #I stuck in the position [18,10]
+Red light for car #T to turn to the r
+Traffic jam: Car #C stuck in the position [18,11]
+Red light for car #D to turn to the l
+Traffic jam: Car #I stuck in the position [18,10]
+Traffic jam: Car #N stuck in the position [18,9]
+Traffic jam: Car #S stuck in the position [18,8]
+Red light for car #T to turn to the r
+Red light for car #B to turn to the d
+Traffic jam: Car #C stuck in the position [18,11]
+Traffic jam: Car #I stuck in the position [18,10]
+Traffic jam: Car #N stuck in the position [18,9]
+Traffic jam: Car #S stuck in the position [18,8]
+Red light for car #B to turn to the d
+Red light for car #B to turn to the d
+Traffic jam: Car #O stuck in the position [12,0]
+Red light for car #B to turn to the d
+Red light for car #H to turn to the l
+Red light for car #N to turn to the r
+Traffic jam: Car #S stuck in the position [18,11]
+Red light for car #H to turn to the l
+Red light for car #N to turn to the r
+Traffic jam: Car #S stuck in the position [18,11]
+Red light for car #H to turn to the l
+Red light for car #N to turn to the r
+Traffic jam: Car #S stuck in the position [18,11]
+Red light for car #H to turn to the l
+Red light for car #N to turn to the r
+Traffic jam: Car #Q stuck in the position [18,10]
+Traffic jam: Car #S stuck in the position [18,11]
+Red light for car #A to turn to the u
+Traffic jam: Car #Q stuck in the position [18,10]
+Red light for car #A to turn to the u
+Traffic jam: Car #G stuck in the position [18,9]
+Red light for car #I to turn to the u
+Red light for car #A to turn to the u
+Red light for car #I to turn to the u
+Traffic jam: Car #A stuck in the position [6,12]
+Traffic jam: Car #I stuck in the position [12,12]
+Red light for car #G to turn to the r
+Red light for car #P to turn to the l
+Red light for car #G to turn to the r
+Red light for car #P to turn to the l
+Red light for car #G to turn to the r
+Traffic jam: Car #L stuck in the position [18,11]
+Red light for car #P to turn to the l
+Red light for car #E to turn to the d
+Traffic jam: Car #K stuck in the position [18,10]
+Red light for car #M to turn to the u
+Red light for car #E to turn to the d
+Traffic jam: Car #F stuck in the position [18,9]
+Traffic jam: Car #I stuck in the position [7,12]
+Red light for car #M to turn to the u
+Traffic jam: Car #O stuck in the position [18,8]
+Red light for car #Q to turn to the u
+Red light for car #E to turn to the d
+Traffic jam: Car #I stuck in the position [7,12]
+Red light for car #M to turn to the u
+Red light for car #Q to turn to the u
+Red light for car #E to turn to the d
+Traffic jam: Car #I stuck in the position [7,12]
+Red light for car #M to turn to the u
+Red light for car #Q to turn to the u
+Traffic jam: Car #I stuck in the position [7,12]
+Red light for car #F to turn to the r
+Traffic jam: Car #O stuck in the position [18,11]
+Red light for car #F to turn to the r
+Traffic jam: Car #O stuck in the position [18,11]
+Red light for car #F to turn to the r
+Traffic jam: Car #O stuck in the position [18,11]
+Red light for car #E to turn to the d
+Red light for car #Q to turn to the u
+Red light for car #E to turn to the d
+Traffic jam: Car #P stuck in the position [11,6]
+Red light for car #Q to turn to the u
+Traffic jam: Car #I stuck in the position [0,12]
+Red light for car #J to turn to the r
+Red light for car #R to turn to the l
