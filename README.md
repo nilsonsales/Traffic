@@ -1,4 +1,4 @@
-# Traffic
+# Traffic Simulator
 This project simulates an urban traffic with some rules to be followed.
 
 
